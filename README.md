@@ -1,7 +1,7 @@
 ## Calendar Heatmap 구현 및 Sankey Diagram 구현 프로젝트
 
 ## 요구 사항
-### 시각화 구현현
+### 시각화 구현
 - DJI_data.csv를 활용한 Calendar Heatmap 구현
     - 주어진 기간의 종가, 변동 데이터 모두 활용
     - X-axis : 좌측 배치, 주말을 제외한 요일
